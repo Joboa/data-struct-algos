@@ -39,5 +39,3 @@ def maxArea(heights: List[int]) -> int:
 height1 = [1, 7, 2, 5, 4, 7, 3, 6]
 height2 = [2, 2, 2]
 print(maxArea(height1))
-
-
